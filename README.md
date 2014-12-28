@@ -1,4 +1,4 @@
 ToDoMVC-Ember
 =============
 
-ToDo Application Built with Ember.js
+ToDo Application created as a part of "Ember.js Getting Started" tutorial.
